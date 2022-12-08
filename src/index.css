@@ -11,3 +11,55 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.d-card {
+  margin: 20px;
+}
+
+.d-card-image {
+  border-radius: 10px;
+  width: 300px;
+  height: 260px;
+  box-shadow: 0px 0px 3px 1px #ccc;
+}
+
+.d-card-info {
+  margin-top: 10px;
+  min-height: 100px;
+  max-width: 200px
+}
+
+.g-card-title {
+  font-size: 24px;
+  margin: 0px;
+}
+
+.g-card-sub-title {
+  font-size: 16px;
+  margin: 0px;
+}
+
+.success-msg {
+  color: #57a773;
+  padding: 10px 15px;
+}
+
+.err-msg {
+  color: #EE6352;
+  padding: 10px 15px;
+}
+
+.scrollable-content {
+  background-color: transparent;
+  width: auto;
+  height: 350px;
+  overflow-y: scroll;
+}
+
+.scrollable-content::-webkit-scrollbar {
+  display: none;
+}
+
+.navbar-top-space {
+  padding-top: 30px;
+}
