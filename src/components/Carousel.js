@@ -1,16 +1,12 @@
 import React from 'react';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
-import tetris from '/Users/james/Github/PortfolioDesigns/portfolio2020-june/src/images/tetris.jpg';
-import got from '/Users/james/Github/PortfolioDesigns/portfolio2020-june/src/images/got.jpg';
-import weather from '/Users/james/Github/PortfolioDesigns/portfolio2020-june/src/images/weather.jpg';
-import fireboard from '/Users/james/Github/PortfolioDesigns/portfolio2020-june/src/images/fireboard.jpg';
-import doosetrain from '/Users/james/Github/PortfolioDesigns/portfolio2020-june/src/images/doosetrain.jpg';
-import shopping from '/Users/james/Github/PortfolioDesigns/portfolio2020-june/src/images/Shopping.jpg'
-// import javascript from '/Users/james/Github/PortfolioDesigns/portfolio2020-june/src/javascript.png';
-// import react from '/Users/james/Github/PortfolioDesigns/portfolio2020-june/src/react copy.png';
-// import youtube from '../assets/images/youtube.png';
-// import evverest from '../assets/images/everest.png';
+import tetris from '../images/tetris.jpg';
+import got from '../images/got.jpg';
+import weather from '../images/weather.jpg';
+import fireboard from '../images/fireboard.jpg';
+import doosetrain from '../images/doosetrain.jpg';
+import shopping from '../images/Shopping.jpg'
 
 import Card from '../components/Card';
 

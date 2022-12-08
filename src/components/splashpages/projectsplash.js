@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import img from '/Users/james/Github/PortfolioDesigns/portfolio2020-june/src/images/arts.jpeg';
+import img from '../../images/arts.jpeg';
 
 var sectionStyle = {
     width: "100%",
